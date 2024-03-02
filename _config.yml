@@ -7,7 +7,7 @@
 # server process.
 
 # Basic Site Settings
-locale                   : "en-US"
+locale                   : "zh-CN"
 title                    : "Linkaixin"
 title_separator          : "-"
 name                     : &name "Your Name"
@@ -25,7 +25,7 @@ author:
   name             : "Linkaixin"
   pronouns         : # example: "she/her"  
   bio              : "Hellow World！"
-  location         : "China"
+  location         : "China Putian"
   employer         : "PuTian University"
   uri              : # URL
   email            : "qq2848087108@outlook.com" 
